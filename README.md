@@ -5,16 +5,27 @@ The Wild Oasis is a user-friendly hotel management application. This application
 ## Build with
 
 React
+
 React Router Dom
+
 React Query
+
 Supabase
+
 react-hot-toast
+
 react-icons
+
 date-fns
+
 recharts
+
 react-hook-form
+
 styled-components
+
 Vite
+
 Hosted by Vercel
 
 ## Features:
